@@ -1,0 +1,36 @@
+ouvrire hitCMD
+git config --global user.name "username"
+git config --global user.email "useemail"
+git config -l
+
+
+
+
+git status savoir si mon fichier a eté modifie rou pas
+git diff : voir les modification !!!!!
+git add ajouter le fichier dans le stagingAréa
+git commit 
+git log afficher les commit (modification !!!!! ) 
+revenir a une etape des modification !! : le truc JAUNE est l'identifiant du commit ( a utiliser pr parcourire)
+git checkout CLE_COMMIT 
+
+
+
+
+_____________________________________________
+allé au dossier sur lequel est stocker 
+git status
+git add index.html
+git commit -m "J'ai modifier le fichier index.html"
+
+
+
+allé modifier klk chose dans le fichier index.html
+etre sur que c bon
+allé ecrire "git add NOM.html"
+ecrire "git commit -m "titre de la modi"
+
+veirifié avec git log !!!!!!
+
+git add --all ou git add . : pour ajouter tous les fichier au xxx en meme temps
+
